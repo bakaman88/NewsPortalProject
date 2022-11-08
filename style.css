@@ -97,7 +97,10 @@ nav ul{
 	font-weight: 800;
 }
 .navbar-nav li a:hover{
-	color:rgb(0, 1, 82);
+	color:white;
+}	
+.nav-link{
+	color: rgb(189, 189, 189);
 }
 .breaking-news-section{
 	padding: 0 30px 0 60px;
@@ -107,7 +110,7 @@ nav ul{
 	width: 200px;
 	font-size: 16px;
 	text-transform: uppercase;
-	color:#896eff;
+	color:rgb(189, 189, 189);
 	font-weight: 600;
 	margin: auto 0;
 }
